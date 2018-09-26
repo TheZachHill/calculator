@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-HostName=mptolly-ignite-remote-monitoringa7905.azure-devices.net;DeviceId=piexternal;SharedAccessKey=g4iUZ+rN05EOBgtjV2dWZSDA1qL+4RiU33kD+2upLSM=
+[![Build Status](https://dev.azure.com/HeyZachHill/Testing/_apis/build/status/TheZachHill.calculator)](https://dev.azure.com/HeyZachHill/Testing/_build/latest?definitionId=1)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
